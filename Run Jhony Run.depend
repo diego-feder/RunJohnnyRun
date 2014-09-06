@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1379626851 source:c:\users\erika\desktop\run jhony run\run jhony run\allegro_config.c
+	"global.h"
+
+1379630594 c:\users\erika\desktop\run jhony run\run jhony run\global.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+
+1379626851 source:c:\users\erika\desktop\run jhony run\run jhony run\funcionalidades.c
+	"global.h"
+
+1379634611 source:c:\users\erika\desktop\run jhony run\run jhony run\main.c
+	"global.h"
+
+1380745924 source:c:\users\erika\skydrive\rjr\allegro_config.c
+	"global.h"
+
+1380746012 c:\users\erika\skydrive\rjr\global.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+
+1380745924 source:c:\users\erika\skydrive\rjr\funcionalidades.c
+	"global.h"
+
+1380745803 source:c:\users\erika\skydrive\rjr\main.c
+	"global.h"
+
+1380765974 source:c:\users\user\desktop\rjr\allegro_config.c
+	"global.h"
+
+1380946492 c:\users\user\desktop\rjr\global.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+
+1380946692 source:c:\users\user\desktop\rjr\funcionalidades.c
+	"global.h"
+
+1380946372 source:c:\users\user\desktop\rjr\main.c
+	"global.h"
+
+1381248255 source:c:\users\user\skydrive\rjr diego\allegro_config.c
+	"global.h"
+
+1381245408 c:\users\user\skydrive\rjr diego\global.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+
+1380946692 source:c:\users\user\skydrive\rjr diego\funcionalidades.c
+	"global.h"
+
+1381249751 source:c:\users\user\skydrive\rjr diego\main.c
+	"global.h"
+
+1381260026 source:c:\users\erika\desktop\rjr diego\allegro_config.c
+	"global.h"
+
+1381262045 c:\users\erika\desktop\rjr diego\global.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+
+1381261937 source:c:\users\erika\desktop\rjr diego\funcionalidades.c
+	"global.h"
+
+1381261834 source:c:\users\erika\desktop\rjr diego\main.c
+	"global.h"
+
+1381260026 source:c:\users\erika\desktop\rjr murilo\allegro_config.c
+	"global.h"
+
+1381343981 c:\users\erika\desktop\rjr murilo\global.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+
+1381262045 source:c:\users\erika\desktop\rjr murilo\funcionalidades.c
+	"global.h"
+
+1381345559 source:c:\users\erika\desktop\rjr murilo\main.c
+	"global.h"
+
+1381260026 source:c:\users\user\downloads\rjr\allegro_config.c
+	"global.h"
+
+1381343981 c:\users\user\downloads\rjr\global.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+
+1381262045 source:c:\users\user\downloads\rjr\funcionalidades.c
+	"global.h"
+
+1381345559 source:c:\users\user\downloads\rjr\main.c
+	"global.h"
+
+1381345559 source:c:\users\user\desktop\utfpr\1o semestre\prog1\run johnny run\main.c
+	"global.h"
+
+1381343981 c:\users\user\desktop\utfpr\1o semestre\prog1\run johnny run\global.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+
+1397106353 source:c:\users\user\desktop\utfpr\1o semestre\prog1\run johnny run\allegro_config.c
+	"global.h"
+
+1392348975 source:c:\users\user\desktop\utfpr\1o semestre\prog1\run johnny run\funcionalidades.c
+	"global.h"
+
