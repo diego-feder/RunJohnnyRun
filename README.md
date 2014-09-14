@@ -1,4 +1,4 @@
-# RunJohnnyRun
+# Run Johnny Run
 ============
 
 ### Run Johnny Run is a game developed by me and my friend [Murilo Gabardo] (https://github.com/Murilogabardo)
